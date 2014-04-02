@@ -11,5 +11,9 @@ let main args =
 
     printfn "%s, %s at %s" greeting thing timeOfDay
 
+    (*
+        Example F# block comment
+    *)
+
     // return an integer exit code
     0 
