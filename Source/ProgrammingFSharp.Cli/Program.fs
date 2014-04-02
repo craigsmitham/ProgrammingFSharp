@@ -2,7 +2,7 @@
 
 [<EntryPoint>]
 let main args = 
-    Chapter1.Cli args
+    //Chapter1.Cli args
     
 
 
